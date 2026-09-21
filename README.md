@@ -18,3 +18,4 @@ In your solution you must provide the following in your Github link account:
   Problem statement (description of the problem. Just copy what is stated here.
   Uploaded java codes for the solution.
 Upload your GitHub Solution link here.
+<img width="1271" height="659" alt="image" src="https://github.com/user-attachments/assets/3f8e6a2d-6dbf-4d9c-b0f0-6591434ea847" />
